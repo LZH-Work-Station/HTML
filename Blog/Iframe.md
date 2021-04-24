@@ -1,0 +1,18 @@
+# Iframe标签
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>内联框架</title>
+</head>
+<body>
+<!--在网页中嵌套另一个网页-->
+<iframe src="https://space.bilibili.com/27251576/fans/follow" width="1000px" height="400px" frameborder="0"></iframe>
+
+</body>
+</html>
+```
+
+- 在一个网页中嵌套另一个网页

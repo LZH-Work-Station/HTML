@@ -1,0 +1,19 @@
+# Image标签
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Image标签</title>
+</head>
+<body>
+
+<img src="../Resources/Image/JYM.jpg" alt="老婆婆头像不在了" 	 		title="老婆婆头像" width="300" height="400">
+
+</body>
+</html>
+```
+
+- alt：是找不到图片的alert的文字
+- title：是鼠标悬停显示的文字
